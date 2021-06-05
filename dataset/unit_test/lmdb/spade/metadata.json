@@ -1,0 +1,5 @@
+{
+    "images": "jpg",
+    "seg_maps": "png",
+    "edge_maps": "png"
+}
